@@ -1,0 +1,34 @@
+{
+    "user": {
+        "id": "11",
+        "animal": "bob",
+        "idade": "13"
+    }
+}
+
+
+{
+    "cliente" : {
+        "id" : "2020",
+        "nome" : "avaristo",
+        "endereco" : {
+            "logradouro" : "Rua compos",
+            "numero" : "211",
+            "complemento" : "ap 21455"
+        }
+    },
+    "pagamentos" : [
+        {
+            "id" : "123",
+            "descriçao" : "curso PHP"
+        },
+        {
+            "id" : "125",
+            "descriçao" : "faculdade ti"
+        },
+        {
+            "id" : "236",
+            "descriçao" : "curso PHP"
+        }
+    ]
+}
